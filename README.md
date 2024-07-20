@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Product-Reviews
+# Customer Segmentation for E-commerce
