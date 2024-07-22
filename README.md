@@ -1,1 +1,1 @@
-# Customer-Segmentation-Analysis
+# Customer-Segmentation-for-Marketing
